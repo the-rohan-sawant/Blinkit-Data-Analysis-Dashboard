@@ -64,5 +64,8 @@ The dashboard was built using the following tools and technologies:
   6. Screenshots / Demos
 
      Dashboard Preview : (https://github.com/the-rohan-sawant/Blinkit-Data-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+     <img width="1713" height="917" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/dbd15448-411a-419b-9896-c7f28b2d7bca" />
+     (https://github.com/the-rohan-sawant/Blinkit-Data-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+
 
   
