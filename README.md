@@ -62,6 +62,7 @@ The dashboard was built using the following tools and technologies:
   🌟 Customer Understanding: Average rating analysis helps track satisfaction trends.
 
   6. Screenshots / Demos
-     Dashboard Preview : ![Uploading image.png…]()
+
+      Dashboard Preview : https://github.com/the-rohan-sawant/Blinkit-Data-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
 
   
