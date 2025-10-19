@@ -4,10 +4,12 @@
 
 An interactive and visually rich Power BI dashboard that analyzes Blinkit’s sales, outlet performance, and customer ratings to uncover actionable insights and drive data-backed decisions.
 
+
 📄 2. Description / Purpose
 
 The Blinkit Data Analysis Dashboard provides a comprehensive view of Blinkit’s operational and sales data. It helps decision-makers track total sales, outlet performance, and customer satisfaction across multiple dimensions such as outlet type, location tier, and product categories.
 The main goal is to transform raw Blinkit sales data into interactive insights that enhance efficiency, profitability, and business strategy.
+
 
 ⚙️ 3. Tech Stack
 
@@ -61,9 +63,11 @@ The dashboard was built using the following tools and technologies:
   🧺 Inventory Optimization: Guides stocking strategies based on product demand.
   🌟 Customer Understanding: Average rating analysis helps track satisfaction trends.
 
+
   6. Screenshots / Demos
 
   Dashborad Preview : 
+  
   <img width="1713" height="917" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/dbd15448-411a-419b-9896-c7f28b2d7bca" />
  
      
